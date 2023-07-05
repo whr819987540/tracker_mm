@@ -1,0 +1,6 @@
+[submodule "chihaya"]
+	path = chihaya
+	url = https://github.com/chihaya/chihaya.git
+[submodule "tracker"]
+	path = tracker
+	url = https://github.com/whr819987540/tracker.git
